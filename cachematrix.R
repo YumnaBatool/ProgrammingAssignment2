@@ -48,3 +48,5 @@ cacheSolve <- function(x, ...) {
 =======
 }
 >>>>>>> origin/master
+
+# by: Yumna Batool
